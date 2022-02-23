@@ -1,0 +1,2 @@
+# Basic_tensorflow_operations
+Showcasing basic TensorFlow operations
